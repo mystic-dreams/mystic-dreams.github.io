@@ -1,8 +1,8 @@
-# Last Light: Arcania
+# Forest Northwest Of Arcania: Arcania
 
 ## Monsters
 
 ## Accessible Maps
 
+- [Arcania: Arcania](arcania)
 - [Fading Light: Arcania](fading-light)
-- [Lacus: Lacus](/maps/valius/lacus/lacus)

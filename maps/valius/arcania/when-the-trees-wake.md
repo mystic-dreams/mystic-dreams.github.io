@@ -1,8 +1,8 @@
-# Forest North of Arcania: Arcania
+# When The Trees Wake: Arcania
 
 ## Monsters
 
 ## Accessible Maps
 
-- [Arcania: Arcania](arcania)
 - [Sleeping Forest: Arcania](sleeping-forest)
+- [](/)
