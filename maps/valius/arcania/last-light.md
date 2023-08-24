@@ -5,4 +5,4 @@
 ## Accessible Maps
 
 - [](/)
-- [Lacus](/../lacus)
+- [Lacus](/maps/valius/lacus/lacus)

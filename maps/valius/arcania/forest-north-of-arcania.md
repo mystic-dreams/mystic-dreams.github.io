@@ -4,5 +4,5 @@
 
 ## Accessible Maps
 
-- [Arcania](/arcania)
-- [Sleeping Forest](/sleeping-forest)
+- [Arcania](arcania)
+- [Sleeping Forest](sleeping-forest)
