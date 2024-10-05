@@ -2,6 +2,8 @@
 
 ## Navigation
 
-[World]("/world")
-[Classes]("/characters/classes")
-[Skills]("/characters/skills")
+[World](world)
+
+[Classes](characters/classes)
+
+[Skills](characters/skills)
