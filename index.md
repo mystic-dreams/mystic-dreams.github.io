@@ -1,5 +1,3 @@
 # Introduction
 
-Hello World
-
 ## Navigation
