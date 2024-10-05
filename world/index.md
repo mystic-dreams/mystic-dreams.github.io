@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The world of Mystic Dreams multiple regions, areas and maps. 
+The world of Mystic Dreams contains multiple regions, areas and maps. 
 
 ## Design Decisions
 
